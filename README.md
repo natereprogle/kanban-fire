@@ -1,3 +1,7 @@
+This repo is a re-creation, NOT A FORK, of https://github.com/FirebaseExtended/codelab-kanban-fire. It was created using Angular 15 and Firebase 7. You will notice that the code surrounding Firebase is different, that is because we are not using Firebase Compat, but instead the latest and greatest. The repo is read-only because I do not intend to make any more adjustments to it, but its here for reference if you're trying to scaffold this codelab after the great Firebase 7 migration, as I like to call it.
+
+The standard Angular README is below. Ajs stated, I will not be taking pull requests or working issues on this repo. Be sure to reconfigure Firebase with the CLI, as I've purposely removed the .firebaserc, firebase.json, and src/environments/environment.ts file.
+
 # KanbanFire
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
